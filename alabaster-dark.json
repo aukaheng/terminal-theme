@@ -1,0 +1,23 @@
+        {
+            "background": "#0E1415",
+            "black": "#000000",
+            "blue": "#0083B2",
+            "brightBlack": "#777777",
+            "brightBlue": "#00A0D9",
+            "brightCyan": "#93C0ED",
+            "brightGreen": "#C4E2B9",
+            "brightPurple": "#D8A6D6",
+            "brightRed": "#D46E69",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#D6A96A",
+            "cursorColor": "#000000",
+            "cyan": "#71ADE7",
+            "foreground": "#CECECE",
+            "green": "#95CB82",
+            "name": "Alabaster Dark",
+            "purple": "#CC8BC9",
+            "red": "#C7423B",
+            "selectionBackground": "#BFCEFF",
+            "white": "#BBBBBB",
+            "yellow": "#CD974B"
+        }
